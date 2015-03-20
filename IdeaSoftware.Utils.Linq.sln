@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdeaSoftware.Utils.Linq", "IdeaSoftware.Utils.Linq\IdeaSoftware.Utils.Linq.csproj", "{246C8BF0-762E-4BD7-8B84-C7B726FDC3FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdeaSoftware.Utils.Linq.Tests", "IdeaSoftware.Utils.Linq.Tests\IdeaSoftware.Utils.Linq.Tests.csproj", "{5E10961A-B7E1-4253-864B-C7768B6BDFF5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{246C8BF0-762E-4BD7-8B84-C7B726FDC3FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{246C8BF0-762E-4BD7-8B84-C7B726FDC3FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{246C8BF0-762E-4BD7-8B84-C7B726FDC3FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{246C8BF0-762E-4BD7-8B84-C7B726FDC3FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E10961A-B7E1-4253-864B-C7768B6BDFF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E10961A-B7E1-4253-864B-C7768B6BDFF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E10961A-B7E1-4253-864B-C7768B6BDFF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E10961A-B7E1-4253-864B-C7768B6BDFF5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
